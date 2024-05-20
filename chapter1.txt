@@ -1,1 +1,2 @@
 Hello, this is my learning lesson of git and version control.
+I have added the alien plot.
